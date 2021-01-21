@@ -6,8 +6,8 @@ Diabetes has a significant impact on the American healthcare system, both in ter
 
 ## Contents of this repo.
 **GroupCode:** Shared notebooks used by individual team members.<br>
-  *-Data_Preprocessing.ipynb:* Notebook to limit analysis to the first patient encounter, and remove patients that died or were discharged to hospice during the encounter.<br> 
-  *-Preproc_FeatEng.ipynb:* Feature engineering on diagnosis codes and drugs prescribed, as well as binarization of the target variable.<br>
+  *-Data_Preprocessing.ipynb:* <br>Notebook to limit analysis to the first patient encounter, and remove patients that died or were discharged to hospice during the encounter.<br> 
+  *-Preproc_FeatEng.ipynb:* <br>Feature engineering on diagnosis codes and drugs prescribed, as well as binarization of the target variable.<br>
   
 **Ava, Yi, and Matt:** Individual notebooks for model development.<br>
 
